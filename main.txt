@@ -1,1 +1,1 @@
-conflict sentence from feature branch
+Feature branch version line
